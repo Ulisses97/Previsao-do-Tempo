@@ -1,0 +1,68 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: #FFF;
+  /* background: linear-gradient(71.21deg, #1A3A3C -8.32%, #2E4C6E 103.55%); */
+  background-color:slateblue;
+}
+
+h1{
+  font-weight: 200;
+  font-size: 60px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 95%;
+  margin: 10% auto;
+}
+
+.previsao{
+  margin-top: -10px;
+
+}
+
+/* -----INPUT------ */
+
+.content-input{
+  /* width: 100%; */
+  width: 670px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  color: #FFF;
+  border-bottom: 3px solid #FFF;
+  /* border-bottom: 3px solid #019DCD; */
+  padding: 0 10px;
+
+  margin-top: 60px;
+
+}
+
+input{
+  height: 50px;
+  width: 670px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #FFF;
+}
+
+input::placeholder{
+  font-size: 20px;
+  color: #FFF;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.search-icon{margin-right: 10px;}
+.send-icon{cursor: pointer;}
