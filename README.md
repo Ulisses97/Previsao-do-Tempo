@@ -50,5 +50,5 @@ $ yarn install
 $ yarn start
 </div>
 
-<footer><p>Feito com o ♥ por Ulisses Brandão👋</p> </br>
+<footer><p>Feito com o ♥ por <a href="https://www.instagram.com/ulisses.brandao/">Ulisses Brandão</a>👋</p> </br>
 <p>☕Bora tomar um café e conversar melhor?</p></footer>
