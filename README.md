@@ -25,8 +25,7 @@
 
 <div>
 <h1>📝Creditos</h1>
-<p>Para conseguir pegar a latitude e longitude de cada cidade usei o repositorio do Kelvins
-https://github.com/kelvins/Municipios-Brasileiros</p>
+<p>Para conseguir informações do clima usei a API disponivel do openweathermap</p>
  </div>
  
 <div>
